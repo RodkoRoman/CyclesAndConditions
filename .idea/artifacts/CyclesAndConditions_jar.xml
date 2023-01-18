@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CyclesAndConditions:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CyclesAndConditions_jar</output-path>
+    <root id="archive" name="CyclesAndConditions.jar">
+      <element id="module-output" name="CyclesAndConditions" />
+    </root>
+  </artifact>
+</component>
